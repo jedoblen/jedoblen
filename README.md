@@ -1,6 +1,6 @@
 ### Oi oi!👋
 
-- 🔭 Estou trabalhando num projeto com SQL
+- 🔭 Estou trabalhando num projeto com HTML e CSS
 - 🌱 Estou aprendendo desenvolvimento Web
 - 😄 Pronomes: ela/dela
 
